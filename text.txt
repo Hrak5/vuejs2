@@ -1,0 +1,6 @@
+php artisan make:migration create_products_table
+php artisan migrate
+php artisan make:controller productscontroller
+php artisan make:model product
+npm i vue-axios
+npm i axios
